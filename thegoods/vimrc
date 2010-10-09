@@ -3,7 +3,6 @@ source ~/.vim/includes/std.vimrc
 source ~/.vim/includes/gui.vimrc
 source ~/.vim/includes/has_colors.vimrc
 source ~/.vim/includes/taglist.vimrc
-source ~/.vim/includes/bash-support.vimrc
 source ~/.vim/includes/fugitive.vimrc
 source ~/.vim/includes/minibuf.vimrc
 source ~/.vim/includes/nerdtree.vimrc
