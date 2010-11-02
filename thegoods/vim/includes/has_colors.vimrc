@@ -2,7 +2,8 @@
 " Also switch on highlighting the last used search pattern.
 if &t_Co > 2 || has("gui_running")
   syntax on
-  colorscheme ego
+  "colorscheme ego
+  colorscheme vividchalk
   au BufRead,BufNewFile *.json set filetype=json
   set hlsearch
 endif
