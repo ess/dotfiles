@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/dwalters/projects/work/elevatorup/bouncy/bouncy/config'
+let g:netrw_dirhist_2='/Users/dwalters/projects/work/elevatorup/bouncy/sinatra/bouncio/config'
+let g:netrw_dirhist_3='/Users/dwalters/projects/personal/gitnesse/gitnesse/config'
+let g:netrw_dirhist_4='/Users/dwalters/.mutt'
+let g:netrw_dirhist_5='/Users/dwalters/.offlineimap'
+let g:netrw_dirhist_6='/Users/dwalters/projects/personal/nope/config'
+let g:netrw_dirhist_7='/Users/dwalters/projects/personal/ess.github.com/source/layouts'
+let g:netrw_dirhist_8='/Users/dwalters/projects/work/elevatorup/abs/journeys/journeymaker/spec/fixtures'
+let g:netrw_dirhist_9='/usr/local'
