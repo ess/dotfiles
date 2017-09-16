@@ -14,7 +14,8 @@ set incsearch		" do incremental searching
 " Don't use Ex mode, use Q for formatting
 map Q gq
 filetype on
-filetype indent on
+"filetype indent on
+filetype plugin indent on
 
 set ts=2
 set expandtab
