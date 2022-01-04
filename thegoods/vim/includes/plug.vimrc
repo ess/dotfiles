@@ -8,7 +8,7 @@ Plug 'fatih/vim-go', { 'do': ':GoInstallBinaries' }
 Plug 'godoctor/godoctor.vim'
 Plug 'dleonard0/pony-vim-syntax'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
-
+Plug 'preservim/nerdtree'
 
 " Initialize plugin system
 call plug#end()
