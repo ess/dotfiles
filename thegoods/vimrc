@@ -9,3 +9,4 @@ source ~/.vim/includes/nerdtree.vimrc
 source ~/.vim/includes/mappings.vimrc
 source ~/.vim/includes/stevelosh.vimrc
 source ~/.vim/includes/go.vimrc
+source ~/.vim/includes/json.vimrc
