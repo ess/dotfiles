@@ -26,3 +26,5 @@ set foldnestmax=1
 " I hate me some backup files.
 set nobackup
 set nowritebackup
+
+nmap <C-P> :FZF<CR>
