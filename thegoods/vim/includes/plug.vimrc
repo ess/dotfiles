@@ -9,6 +9,7 @@ Plug 'godoctor/godoctor.vim'
 Plug 'dleonard0/pony-vim-syntax'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'preservim/nerdtree'
+Plug 'tpope/vim-fugitive'
 
 " Initialize plugin system
 call plug#end()
