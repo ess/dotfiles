@@ -14,7 +14,7 @@ Plug 'tpope/vim-endwise'
 Plug 'rgarver/Kwbd.vim'
 Plug 'ess/minibufexpl.vim', { 'branch': 'main' }
 "Plug 'weynhamz/vim-plugin-minibufexpl'
-Plug 'bling/vim-bufferline'
+"Plug 'bling/vim-bufferline'
 "Plug 'vim-airline/vim-airline'
 "Plug 'fholgado/minibufexpl.vim'
 Plug 'tpope/vim-vividchalk'
