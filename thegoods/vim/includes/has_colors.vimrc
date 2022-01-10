@@ -3,7 +3,9 @@
 if &t_Co > 2 || has("gui_running")
   syntax on
   "colorscheme ego
-  colorscheme vividchalk
+  "colorscheme vividchalk
+  set background=dark
+  colorscheme PaperColor
   au BufRead,BufNewFile *.json set filetype=json
   set hlsearch
 endif

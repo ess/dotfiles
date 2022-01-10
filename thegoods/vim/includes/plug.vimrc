@@ -6,6 +6,7 @@ call plug#begin('~/.vim/plugged')
 " Tools
 
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+"Plug 'ctrlpvim/ctrlp.vim'
 Plug 'tpope/vim-fugitive'
 Plug 'preservim/nerdtree'
 Plug 'preservim/nerdcommenter'
@@ -18,6 +19,7 @@ Plug 'ess/minibufexpl.vim', { 'branch': 'main' }
 "Plug 'vim-airline/vim-airline'
 "Plug 'fholgado/minibufexpl.vim'
 Plug 'tpope/vim-vividchalk'
+Plug 'NLKNguyen/papercolor-theme'
 
 " Language Support
 
@@ -31,6 +33,10 @@ Plug 'dart-lang/dart-vim-plugin'
 Plug 'slim-template/vim-slim'
 Plug 'fasterthanlime/ooc.vim'
 Plug 'elzr/vim-json'
+Plug 'lluchs/vim-wren'
+Plug 'ziglang/zig.vim'
+Plug 'ollykel/v-vim'
+Plug 'hashivim/vim-terraform'
 
 " Initialize plugin system
 call plug#end()
