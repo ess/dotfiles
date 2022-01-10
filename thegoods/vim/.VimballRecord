@@ -1,2 +1,0 @@
-twitvim-0.4.2.vba: call delete('/home/scruff/.vim/plugin/twitvim.vim')|call delete('/home/scruff/.vim/doc/twitvim.txt')
-delimitMate.vba: call delete('/Users/dennis/.vim/plugin/delimitMate.vim')|call delete('/Users/dennis/.vim/autoload/delimitMate.vim')|call delete('/Users/dennis/.vim/doc/delimitMate.txt')
