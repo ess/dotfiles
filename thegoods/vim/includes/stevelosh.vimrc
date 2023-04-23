@@ -19,7 +19,9 @@ vnoremap <tab> %
 " Visual Cues
 
 set list
-set listchars=eol:¬
+if !has('nvim')
+  set listchars=eol:¬
+endif
 
 " Getting Around
 

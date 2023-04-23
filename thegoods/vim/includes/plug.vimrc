@@ -20,6 +20,9 @@ Plug 'ess/minibufexpl.vim', { 'branch': 'main' }
 "Plug 'fholgado/minibufexpl.vim'
 Plug 'tpope/vim-vividchalk'
 Plug 'NLKNguyen/papercolor-theme'
+"if has('nvim')
+    Plug 'github/copilot.vim', { 'branch': 'main'}
+"endif
 
 " Language Support
 
